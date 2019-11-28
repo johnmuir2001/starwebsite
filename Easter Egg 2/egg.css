@@ -1,0 +1,40 @@
+body{
+    background: url(tunnel.png) no-repeat;
+    background-color: #cccccc;
+    background-size: 100vw 100vh;
+}
+h1{
+    font-family: avenir;
+    color: white;
+    text-align: center
+}
+.button1 {
+    border: none;
+    color: white;
+    padding: 200px 200px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0%;
+    left: 34%;
+    transform: translate(-50%,-80%);
+  }
+  .button2 {
+    border: none;
+    color: white;
+    padding: 200px 200px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0%;
+    left: 67%;
+    transform: translate(-50%,-80%);
+  }

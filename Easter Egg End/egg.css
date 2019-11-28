@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(#1D1E16,#4d6578);
+    background-repeat: repeat-x;
+    height: 100vh;
+  
+}
+h1{
+    font-family: avenir;
+    color: white;
+    text-align: center;
+}
+.button {
+  border: solid;
+  color: white;
+  padding: 70px 70px;
+  text-align: center;
+  font-family: avenir;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%,190%);
+  background-color: #1D1E16
+}
