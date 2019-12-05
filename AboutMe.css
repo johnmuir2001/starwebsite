@@ -1,7 +1,7 @@
 body{margin:0;
     background-image: linear-gradient(#1D1E16,#4d6578);
     background-repeat: repeat-x;
-    min-height: 100vh;
+    height: auto;
     overflow-x: hidden;
 }
 a {
