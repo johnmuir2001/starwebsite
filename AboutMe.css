@@ -77,6 +77,14 @@ h2 {
     text-align: center;
     color: white
 }
+h3 {
+  font-family: avenir;
+  text-align: center;
+  color: white;
+}
+a{
+  color: grey
+}
 p {
     font-family: avenir;
     text-align: center;
@@ -93,7 +101,7 @@ p {
     padding-left: 20px;
 }
 .text{
-    position: absolute;
+    position: relative;
     z-index: 10;
 }
 
